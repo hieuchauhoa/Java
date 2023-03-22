@@ -33,6 +33,6 @@ Phần mềm chạy tốt với độ phân giải màn hình chuẩn của máy
 ```
 
 ## Một số giao diện của chương trình
-
+![img1.png](imgReadme/img1.png)
 ![img2.png](imgReadme/img2.png)
 ![img3.png](imgReadme/img3.png)
